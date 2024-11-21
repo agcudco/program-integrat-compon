@@ -1,0 +1,23 @@
+.container-menu {
+    display: flex;
+    list-style-type: none;
+    background-color: azure;
+}
+
+.container-menu li {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.container-menu li:hover {
+    background-color: darkblue;
+    color: white;
+}
+
+.container-menu li img {
+    margin-right: 8px;
+    width: 32px;
+    height: 32px;
+}

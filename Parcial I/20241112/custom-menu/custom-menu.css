@@ -1,0 +1,17 @@
+.menu-container {
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 0;
+    list-style-type: none;
+}
+
+.menu-container li{
+    padding: 1rem;
+    cursor: pointer;
+}
+
+.menu-container li:hover{
+    background-color: cyan;
+    color: black;
+}
