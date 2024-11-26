@@ -1,6 +1,5 @@
-# Servidor Básico con Express
+# Api rest con Express y MySql
 
-Este proyecto es una aplicación de servidor básico construido con [Express](https://expressjs.com/). Sirve como punto de partida para desarrollar aplicaciones web o APIs.
 
 ## Requisitos
 
@@ -14,13 +13,9 @@ Este proyecto es una aplicación de servidor básico construido con [Express](ht
    ```bash
    git clone https://github.com/usuario/servidor-express.git
    cd servidor-express
-
-npm install
-# o si usas yarn
-yarn install
+   npm install
 
 ## Ejecutar el servidor con 
-npm run dev
-# o si usas yarn
-yarn start
+    ```bash
+    npm run dev
 
